@@ -1,7 +1,7 @@
 {
-  "name": "mem0ai",
-  "version": "2.1.13",
-  "description": "The Memory Layer For Your AI Apps",
+  "name": "mem0ai-mistral",
+  "version": "2.1.14",
+  "description": "The Memory Layer For Your AI Apps with Mistral AI Support",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -74,7 +74,11 @@
     "long-term-memory",
     "ai"
   ],
-  "author": "Deshraj Yadav",
+  "author": "NightClover",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NightClover-code/mem0"
+  },
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/node": "^22.7.6",
